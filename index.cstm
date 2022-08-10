@@ -1,0 +1,2 @@
+var Hello: "Hello, World!";
+print Hello;
