@@ -65,7 +65,6 @@ class Program {
 
     while (lineIndex < parsedLines.length) {
       const line = parsedLines[lineIndex];
-      let parsedLine = {};
 
       while (columnIndex < line.length) {
         const token = line[columnIndex];
